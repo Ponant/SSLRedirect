@@ -1,0 +1,11 @@
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\bin\Debug\netcoreapp1.1\SSLRedirect.deps.json
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\bin\Debug\netcoreapp1.1\SSLRedirect.runtimeconfig.json
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\bin\Debug\netcoreapp1.1\SSLRedirect.runtimeconfig.dev.json
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\bin\Debug\netcoreapp1.1\SSLRedirect.dll
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\obj\Debug\netcoreapp1.1\SSLRedirect.csprojResolveAssemblyReference.cache
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\obj\Debug\netcoreapp1.1\SSLRedirect.AssemblyInfo.cs
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\bin\Debug\netcoreapp1.1\SSLRedirect.pdb
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\obj\Debug\netcoreapp1.1\SSLRedirect.dll
+U:\Calculus\Visual Studio 2017\Projects\SSLRedirect\SSLRedirect\obj\Debug\netcoreapp1.1\SSLRedirect.pdb
